@@ -5,4 +5,4 @@ to use, paste in the following
 samples('github:kyrsive/wt_miscsamples/main/glitch_with_friends')
 ```
 
-support glitch.cool
+support [glitch.cool](https://glitchdotcool.gumroad.com/)
